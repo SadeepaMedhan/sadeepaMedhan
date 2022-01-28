@@ -20,6 +20,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepamedhan&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepamedhan" /> </p>
 
 
+<p>
+<!-- I'm been practicing programming for over 2 years and I'm always learning and always improving! -->
+<br>
+My goals are to help people achieve their dreams and make websites and software that people find useful.
+</p>
+
 
 - 🌱 I’m currently learning **IJSE**
 
