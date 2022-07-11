@@ -53,4 +53,4 @@ My goals are to help people achieve their dreams and make websites and software 
 
 <div></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeepamedhan&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="sadeepamedhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeepamedhan&theme=dark&hide_border=true&show_icons=true&locale=en alt="sadeepamedhan" /></p>
