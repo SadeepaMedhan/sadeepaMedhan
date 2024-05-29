@@ -15,7 +15,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sadeepa Medhan Sugeeshwara</h1>
-<h3 align="center">I'm currently studying at Institute of Software Engineering</h3>
+<h3 align="center">I'm Associate Software Engineer at ZinCaT Technology (Pvt) Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepamedhan&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepamedhan" /> </p>
 
@@ -27,9 +27,11 @@ My goals are to help people achieve their dreams and make websites and software 
 </p>
 
 
-- 🌱 I’m currently learning **IJSE**
+- 🌱 Studied at **IJSE - Institute of Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://sadeepamedhan.github.io/MyProfile/](https://sadeepamedhan.github.io/MyProfile/)
+- 👨‍💻 My projects are available at [https://gitlab.com/sadeepaZincat](https://gitlab.com/sadeepaZincat)
+
+- 👨‍💻 All of my personal projects are available at [https://sadeepamedhan.github.io/MyProfile/](https://sadeepamedhan.github.io/MyProfile/)
 
 - 📫 How to reach me **sadeepamedhan823@gmail.com**
 <br>
